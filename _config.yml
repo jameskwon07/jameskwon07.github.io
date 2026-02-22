@@ -1,0 +1,26 @@
+title: "Coding Bridge"
+description: "LLM 검색 최적화(LLMO)를 직접 실험하는 블로그 | AI 개발 일지"
+url: "https://jameskwon07.github.io"
+author: "James Kwon"
+lang: ko
+
+# Theme
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Permalink
+permalink: /:year/:month/:day/:title/
+
+# Collections
+markdown: kramdown
+highlighter: rouge
+
+# SEO
+twitter:
+  username: jameskwon07
+github:
+  username: jameskwon07
