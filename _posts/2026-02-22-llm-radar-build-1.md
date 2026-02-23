@@ -83,5 +83,7 @@ LLM이 나를 언급하는지 확인하려면 세 단계가 필요하다:
 
 ---
 
+**→ 다음 화:** [2화: Perplexity에 직접 물어봤다](https://jameskwon07.github.io/2026/02/23/llm-radar-build-2/)
+
 *[jameskwon07.github.io](https://jameskwon07.github.io) | LLM Radar 빌드 인 퍼블릭 시리즈*
 

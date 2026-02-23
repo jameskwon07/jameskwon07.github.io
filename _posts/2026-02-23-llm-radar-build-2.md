@@ -96,4 +96,6 @@ Semrush는 SEO 대기업, Bluedot는 영어 전용, Amplitude는 기업용. 한�
 
 ---
 
+**← 이전 화:** [1화: 내 블로그가 AI 검색에 뜨는지 확인하고 싶었다](https://jameskwon07.github.io/2026/02/22/llm-radar-build-1/)
+
 *[jameskwon07.github.io](https://jameskwon07.github.io) | LLM Radar 빌드 인 퍼블릭 시리즈*
