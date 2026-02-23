@@ -7,7 +7,7 @@ title: Home
 
 **LLM 검색 최적화(LLMO)를 직접 실험하는 블로그**
 
-ChatGPT, Claude, Perplexity가 내 콘텐츠를 알고 있을까? 직접 만든 [LLM Radar](https://github.com/jameskwon07)로 측정하면서 공유합니다.
+ChatGPT, Claude, Perplexity가 내 콘텐츠를 알고 있을까? 직접 만든 LLM Radar로 측정하면서 공유합니다.
 
 ---
 
