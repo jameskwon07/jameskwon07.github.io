@@ -3,7 +3,7 @@ layout: post
 title: "당신의 Culture가 제품입니다 — jobsbyculture 피드백"
 date: 2026-02-26 09:00:00 +0900
 categories: [제품노트]
-tags: [제품피드백, 솔로프레너, SaaS, 채용]
+tags: [제품피드백, 솔로프레너, SaaS, 채용, jobsbyculture]
 description: "한번 실패하고 다시 만든 채용 서비스를 직접 써봤다. 데이터보다 이야기가 더 궁금해졌다."
 ---
 
