@@ -12,8 +12,7 @@ permalink: /categories/product-note/
 ---
 
 <ul>
-  {% assign posts = site.posts | where_exp: "post", "post.categories contains '제품노트'" %}
-  {% for post in posts %}
+  {% for post in site.categories['제품노트'] %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <small>{{ post.date | date: "%Y.%m.%d" }}</small>

@@ -14,8 +14,7 @@ title: Home
 AI 검색 최적화 도구를 직접 만드는 여정.
 
 <ul>
-  {% assign llm_posts = site.posts | where_exp: "post", "post.categories contains 'LLM-Radar'" %}
-  {% for post in llm_posts limit: 3 %}
+  {% for post in site.categories['LLM-Radar'] limit: 3 %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <small>{{ post.date | date: "%Y.%m.%d" }}</small>
@@ -32,8 +31,7 @@ AI 검색 최적화 도구를 직접 만드는 여정.
 솔로프레너가 만든 제품을 직접 써보고 피드백합니다.
 
 <ul>
-  {% assign pn_posts = site.posts | where_exp: "post", "post.categories contains '제품노트'" %}
-  {% for post in pn_posts limit: 3 %}
+  {% for post in site.categories['제품노트'] limit: 3 %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <small>{{ post.date | date: "%Y.%m.%d" }}</small>

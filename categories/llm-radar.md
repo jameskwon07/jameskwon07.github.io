@@ -12,8 +12,7 @@ ChatGPT, Perplexity가 내 콘텐츠를 알고 있는지 측정합니다.
 ---
 
 <ul>
-  {% assign posts = site.posts | where_exp: "post", "post.categories contains 'LLM-Radar'" %}
-  {% for post in posts %}
+  {% for post in site.categories['LLM-Radar'] %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <small>{{ post.date | date: "%Y.%m.%d" }}</small>
