@@ -20,6 +20,7 @@ markdown: kramdown
 highlighter: rouge
 
 # SEO
+google_site_verification: luOCqk7affdVSb9P9MdGCJAobhXntULF1sNcee2uyhI
 twitter:
   username: jameskwon07
 github:
