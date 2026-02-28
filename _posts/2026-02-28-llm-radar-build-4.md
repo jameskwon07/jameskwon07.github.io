@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LLM Radar 만들기 4화: 경쟁사를 직접 뜯어봤다"
+title: "LLM Radar 만들기 4화: 경쟁사를 직접 뜯어봤다 — Gauge 시리즈 1"
 date: 2026-02-28 12:00:00 +0900
 categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLMO, LLM검색최적화, 경쟁사분석, GEO, AEO, SaaS]
@@ -115,9 +115,9 @@ AI 검색은 고정된 게 아니다. ChatGPT가 업데이트되면 어제까지
 
 ## 다음 화 예고
 
-Google 인덱싱이 완료되는 날, Perplexity 재스캔을 돌린다.
+Gauge 시리즈 2 — LLM Radar로 Gauge를 직접 조사한다.
 
-이번엔 블로그뿐 아니라 LLM Radar 자체가 AI 검색에서 어떻게 보이는지도 같이 측정할 예정이다.
+AI는 Gauge를 어떻게 설명하는가. 어떤 질문에서 언급되고, 어떤 질문에서 빠지는가. 경쟁사를 측정 대상으로 삼아서 LLM Radar가 실제로 어떤 정보를 뽑아내는지 공개한다.
 
 ---
 
