@@ -123,4 +123,6 @@ AI는 Gauge를 어떻게 설명하는가. 어떤 질문에서 언급되고, 어�
 
 **← 이전 화:** [3화: Perplexity가 내 사이트를 못 읽었다](https://jameskwon07.github.io/2026/02/25/llm-radar-build-3/)
 
+비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
+
 *[jameskwon07.github.io](https://jameskwon07.github.io) | LLM Radar 빌드 인 퍼블릭 시리즈*

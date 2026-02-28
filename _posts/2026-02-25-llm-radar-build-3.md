@@ -130,4 +130,6 @@ site:jameskwon07.github.io
 
 **← 이전 화:** [2화: Perplexity에 직접 물어봤다](https://jameskwon07.github.io/2026/02/23/llm-radar-build-2/) | **→ 다음 화:** [4화: 경쟁사를 직접 뜯어봤다 — Gauge 시리즈 1](https://jameskwon07.github.io/2026/02/28/llm-radar-build-4/)
 
+비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
+
 *[jameskwon07.github.io](https://jameskwon07.github.io) | LLM Radar 빌드 인 퍼블릭 시리즈*
