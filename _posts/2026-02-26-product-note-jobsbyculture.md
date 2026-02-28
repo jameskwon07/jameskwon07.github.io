@@ -3,7 +3,7 @@ layout: post
 title: "당신의 Culture가 제품입니다 — jobsbyculture 피드백"
 date: 2026-02-26 09:00:00 +0900
 categories: [제품노트]
-tags: [제품피드백, 솔로프레너, SaaS, 채용, jobsbyculture]
+tags: [제품피드백, SaaS, 채용, jobsbyculture]
 description: "한번 실패하고 다시 만든 채용 서비스를 직접 써봤다. 데이터보다 이야기가 더 궁금해졌다."
 ---
 
@@ -67,4 +67,4 @@ Culture를 수치로 요약하면 또 다른 Glassdoor가 된다. Culture를 이
 
 ---
 
-*이 글은 솔로프레너가 만든 제품을 직접 써보고 쓰는 피드백 노트입니다. · [제품 노트 전체 보기](/categories/product-note/)*
+*이 글은 직접 써본 제품에 대한 피드백 노트입니다. · [제품 노트 전체 보기](/categories/product-note/)*

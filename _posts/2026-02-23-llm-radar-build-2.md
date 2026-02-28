@@ -49,7 +49,7 @@ description: "노출률 0%인 상태에서 Perplexity는 내 질문들에 어떻
 
 이 답변이 제일 중요하다. 내가 만든 **LLM Radar는 여기 없다**.
 
-Semrush는 SEO 대기업, Bluedot는 영어 전용, Amplitude는 기업용. 한국어 서비스, 소규모 브랜드용, 개인이 쓸 수 있는 서비스는 목록에 없다.
+Semrush는 SEO 대기업, Bluedot는 영어 전용, Amplitude는 기업용. 한국어 서비스, 한국 브랜드를 위한 서비스는 목록에 없다.
 
 공백이 있다. 그리고 그 공백이 내가 만들어야 하는 이유다.
 
