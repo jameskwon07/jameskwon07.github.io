@@ -70,3 +70,5 @@ Culture를 수치로 요약하면 또 다른 Glassdoor가 된다. Culture를 이
 비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
 
 *이 글은 직접 써본 제품에 대한 피드백 노트입니다. · [제품 노트 전체 보기](/categories/product-note/)*
+
+→ 다음 글: [20시간을 3분으로 — ValidSaaS 피드백](/2026/02/28/product-note-validsaas/)
