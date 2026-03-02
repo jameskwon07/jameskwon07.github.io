@@ -95,4 +95,6 @@ Gauge의 블로그에서 이런 말을 읽었다.
 
 비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
 
+→ 다음 화: [6화: 참조 사이트가 없다는 게 무슨 뜻인가](https://jameskwon07.github.io/2026/03/02/llm-radar-build-6/)
+
 *[jameskwon07.github.io](https://jameskwon07.github.io) | LLM Radar 빌드 인 퍼블릭 시리즈*
