@@ -89,7 +89,7 @@ Perplexity가 웹 검색을 트리거하는 질문은 따로 있다.
 
 ---
 
-**← 이전 화:** [5화: Gauge를 AI로 검색해봤다](https://jameskwon07.github.io/2026/03/01/llm-radar-build-5/)
+**← 이전 화:** [5화: Gauge를 AI로 검색해봤다](https://codingbridge.blog/2026/02/28/llm-radar-build-5/)
 
 비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
 
