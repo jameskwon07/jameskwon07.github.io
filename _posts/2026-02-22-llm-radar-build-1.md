@@ -4,7 +4,7 @@ title: "LLM Radar 만들기 1화: 내 블로그가 AI 검색에 뜨는지 확인
 date: 2026-02-22 09:00:00 +0900
 categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLMO, LLM검색최적화, Perplexity, Claude, AI검색, 빌드인퍼블릭]
-description: "ChatGPT, Perplexity에 내 블로그가 언급되는지 추적하는 도구를 만들기 시작했다. 한국어 서비스는 없다. 첫 스캔 결과: 노출률 0%."
+description: "Perplexity와 ChatGPT에서 내 블로그가 AI 검색에 노출되는지 직접 확인하고 싶었다. 한국어 LLM 노출 모니터링 서비스가 없어서 직접 만들었다. 첫 스캔 결과: 노출률 0% (0/18). LLM Radar 빌드인퍼블릭 1화."
 ---
 
 솔직히 말하면 설레고 있었다. 아직 아무것도 없는데 뭔가 대단한 걸 만들 것 같은 기분. 이런 게 빌드인퍼블릭의 시작이겠지 싶었다.

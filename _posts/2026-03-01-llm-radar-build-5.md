@@ -4,7 +4,7 @@ title: "LLM Radar 만들기 5화: Gauge를 AI로 검색해봤다 — Gauge 시�
 date: 2026-03-01 06:00:00 +0900
 categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLMO, LLM검색최적화, 경쟁사분석, GEO, Gauge, AI가시성]
-description: "AI 검색 가시성을 측정해주는 Gauge를, LLM Radar로 직접 측정해봤다. 결과는 예상 밖이었다."
+description: "AI 검색 가시성 측정 서비스 Gauge를 LLM Radar로 역측정했다. 노출률 0% (0/7). 경쟁사도 AI 검색에서 자기 자신을 노출시키지 못하고 있었다. Perplexity에서 브랜드 노출이 왜 어려운지 데이터로 확인. LLM Radar 빌드인퍼블릭 5화."
 ---
 
 4화 쓰고 나서 한동안 찝찝했다. Gauge, Otterly, Profound — 다들 나보다 훨씬 앞서 있고, 영어권 시장을 이미 잡고 있었다. 내가 실패할까봐 두려웠다. 근데 한 가지가 계속 걸렸다. 저 서비스들 자체는 얼마나 AI 검색에 노출되고 있을까.

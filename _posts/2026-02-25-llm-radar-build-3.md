@@ -4,7 +4,7 @@ title: "LLM Radar 만들기 3화: Perplexity가 내 사이트를 못 읽었다"
 date: 2026-02-25 21:00:00 +0900
 categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLMO, LLM검색최적화, GoogleSearchConsole, SEO, 인덱싱]
-description: "Perplexity에게 내 사이트를 분석해달라고 했더니 '크롤링 제한'이라고 했다. 그게 LLMO보다 더 근본적인 문제를 발견하게 해줬다."
+description: "Perplexity가 내 블로그를 크롤링하지 못했다. LLMO보다 먼저 해결해야 할 문제 — Google Search Console 등록, 사이트맵 제출, robots.txt 설정. AI 검색 최적화 이전에 기본 인덱싱이 안 돼있었다. LLM Radar 빌드인퍼블릭 3화."
 ---
 
 계획대로 안 풀렸다. 근데 그게 오히려 더 중요한 걸 발견하게 해줬다. 막힐 때 다른 길이 보이는 경우가 있다.

@@ -4,7 +4,7 @@ title: "LLM Radar 만들기 4화: 경쟁사를 직접 뜯어봤다 — Gauge 시
 date: 2026-02-28 12:00:00 +0900
 categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLMO, LLM검색최적화, 경쟁사분석, GEO, AEO, SaaS]
-description: "Gauge, Otterly, Profound. AI 검색 가시성 시장의 경쟁사들을 직접 뜯어봤다. 그리고 내가 어디에 서 있어야 하는지 생각했다."
+description: "AI 검색 가시성(AI Visibility) 시장의 경쟁사 Gauge, Otterly.ai, Profound를 직접 분석했다. 공통점: 영어 중심, 엔터프라이즈 타겟. LLM Radar가 비집고 들어갈 틈을 찾았다. LLM Radar 빌드인퍼블릭 4화."
 ---
 
 경쟁사를 찾아보기 전까진 내가 꽤 독창적인 걸 만들고 있다고 생각했다. 그런데 찾아보니까 이미 비슷한 게 있었다. 영어로, 훨씬 잘 만들어져서. 솔직히 무서웠다. 이걸 계속 해야 하나 잠깐 고민했다.

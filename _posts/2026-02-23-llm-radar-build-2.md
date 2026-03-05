@@ -4,7 +4,7 @@ title: "LLM Radar 만들기 2화: Perplexity에 직접 물어봤다"
 date: 2026-02-23 09:00:00 +0900
 categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLMO, LLM검색최적화, Perplexity, GEO, AI검색]
-description: "노출률 0%인 상태에서 Perplexity는 내 질문들에 어떻게 답하고 있나. 실제 답변 5개를 공개하고, 거기서 보이는 공백을 분석한다."
+description: "AI 검색 노출률 0% 상태에서 Perplexity에 직접 5가지 질문을 던졌다. GEO(Generative Engine Optimization) 전략, LLM 인용 최적화 방법, AI 검색 모니터링 서비스 추천까지 — 실제 답변과 공백을 분석한다. LLM Radar 빌드인퍼블릭 2화."
 ---
 
 0%가 나왔는데 이상하게 기분이 나쁘지 않았다. 오히려 더 파고들고 싶어졌다. 이 0%에 뭔가 있을 것 같았다.

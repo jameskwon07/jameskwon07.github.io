@@ -1,5 +1,52 @@
 <meta name="google-site-verification" content="nE5d-7D8KtzAO5-G4SFkljPdk_FHZl8d2VshsiLjvEs" />
 
+<!-- JSON-LD 구조화 데이터 — AI 검색 최적화 -->
+{% if page.layout == "post" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author | jsonify }},
+    "url": "https://codingbridge.blog"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": "https://codingbridge.blog"
+  },
+  "url": "https://codingbridge.blog{{ page.url }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://codingbridge.blog{{ page.url }}"
+  },
+  "keywords": {{ page.tags | join: ", " | jsonify }},
+  "inLanguage": "ko"
+}
+</script>
+{% else %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "url": "https://codingbridge.blog",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author | jsonify }},
+    "url": "https://codingbridge.blog"
+  },
+  "inLanguage": "ko"
+}
+</script>
+{% endif %}
+
 <!-- Google Analytics 4 — jameskwon07.github.io -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-L8X793D76H"></script>
 <script>
