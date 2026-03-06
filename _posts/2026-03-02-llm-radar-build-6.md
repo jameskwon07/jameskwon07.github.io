@@ -91,6 +91,8 @@ Perplexity가 웹 검색을 트리거하는 질문은 따로 있다.
 
 **← 이전 화:** [5화: Gauge를 AI로 검색해봤다](https://codingbridge.blog/2026/02/28/llm-radar-build-5/)
 
+→ 다음 화: [LLM Radar 만들기 7화: 질문 하나 바꿨더니 Perplexity가 내 블로그를 인용했다](https://codingbridge.blog/2026/03/06/llm-radar-build-7/)
+
 비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
 
 *[jameskwon07.github.io](https://jameskwon07.github.io) | LLM Radar 빌드 인 퍼블릭 시리즈*
