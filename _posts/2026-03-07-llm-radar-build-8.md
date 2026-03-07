@@ -3,6 +3,7 @@ layout: post
 title: "LLM Radar 만들기 8화: 세종 데이트 카페 찾다가 발견한 것"
 date: 2026-03-07
 description: "Perplexity가 세종 카페를 Instagram 출처로 추천했는데, 프로필엔 카페 얘기가 없었다. LLM이 해시태그를 키워드로 읽는다는 걸 직접 확인한 사례."
+categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLM검색최적화, Perplexity, GEO, AI가시성, 빌드인퍼블릭]
 ---
 
