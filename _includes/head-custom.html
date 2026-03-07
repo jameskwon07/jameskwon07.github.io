@@ -47,4 +47,12 @@
 </script>
 {% endif %}
 
-<!-- GA4는 head-custom-google-analytics.html 에서 단일 초기화 -->
+<!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S9LDR2M8EK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-S9LDR2M8EK');
+  gtag('config', 'G-L8X793D76H');
+</script>
