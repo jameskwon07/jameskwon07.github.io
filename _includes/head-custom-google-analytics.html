@@ -1,18 +1,11 @@
-{% if site.google_analytics %}
-<!-- jameskwon07.github.io -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ site.google_analytics }}');
-</script>
-{% endif %}
-<!-- codingbridge.blog -->
+<!-- Google Analytics 4 (jameskwon07.github.io + codingbridge.blog) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S9LDR2M8EK"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-S9LDR2M8EK');
+  {% if site.google_analytics %}
+  gtag('config', '{{ site.google_analytics }}');
+  {% endif %}
 </script>
