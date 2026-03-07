@@ -55,4 +55,22 @@
   gtag('js', new Date());
   gtag('config', 'G-S9LDR2M8EK');
   gtag('config', 'G-L8X793D76H');
+
+  // /from/* 리다이렉트 출처 추적 (UTM URL 노출 없이)
+  try {
+    var refSource   = sessionStorage.getItem('ref_source');
+    var refMedium   = sessionStorage.getItem('ref_medium');
+    var refCampaign = sessionStorage.getItem('ref_campaign');
+    if (refSource) {
+      gtag('event', 'referral_visit', {
+        source:   refSource,
+        medium:   refMedium,
+        campaign: refCampaign,
+        page:     location.pathname
+      });
+      sessionStorage.removeItem('ref_source');
+      sessionStorage.removeItem('ref_medium');
+      sessionStorage.removeItem('ref_campaign');
+    }
+  } catch(e) {}
 </script>
