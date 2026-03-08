@@ -66,6 +66,8 @@ LLM은 내가 **뭘 하는 곳인지** 읽지 않는다. 내가 쓴 **키워드�
 
 모른다. 계속 해볼 뿐이다.
 
+→ 다음 화: [LLM Radar 만들기 9화: Perplexity에 내 블로그를 직접 물어봤다](https://codingbridge.blog/2026/03/08/llm-radar-build-9/)
+
 ← 이전 화: [LLM Radar 만들기 7화: 질문 하나 바꿨더니 Perplexity가 내 블로그를 인용했다](https://codingbridge.blog/2026/03/06/llm-radar-build-7/)
 
 ---
