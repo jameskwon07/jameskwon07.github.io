@@ -4,7 +4,6 @@ title: "LLM Radar 만들기 7화: 질문 하나 바꿨더니 Perplexity가 내 �
 date: 2026-03-06 21:00:00 +0900
 categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLM검색최적화, Perplexity, GEO, AI가시성, 빌드인퍼블릭]
-description: "LLM Radar 특화질문 스캔 결과 14.3% (1/6). 방법론형 질문 0% → 사례 유도형 질문으로 바꿨더니 Perplexity가 codingbridge.blog를 직접 인용했다. 근데 기쁘기보다 고민이 더 많아졌다. LLM Radar 빌드인퍼블릭 7화."
 ---
 
 됐다. 근데 기쁘지 않았다.
@@ -68,11 +67,7 @@ codingbridge.blog는 2월에 만든 새 도메인이다. Perplexity가 참고 �
 다른 하나는 **6화(인용된 글)와 나머지 글의 차이를 분석하는 것**. 구조, 키워드, 길이. 인용된 글이 뭔가 다를 텐데, 그게 뭔지.
 
 아직 모른다. 계속 해볼 뿐이다.
-
-← 이전 화: [LLM Radar 만들기 6화: 참조 사이트가 없다는 게 무슨 뜻인가](https://codingbridge.blog/2026/03/02/llm-radar-build-6/)
-
-→ 다음 화: [LLM Radar 만들기 8화: 세종 데이트 카페 찾다가 발견한 것](https://codingbridge.blog/2026/03/07/llm-radar-build-8/)
-
----
+← 이전 화: [6화: 참조 사이트가 없다는 게 무슨 뜻인가](https://codingbridge.blog/2026/03/02/llm-radar-build-6/)
+→ 다음 화: [8화: 세종 데이트 카페 찾다가 발견한 것](https://codingbridge.blog/2026/03/07/llm-radar-build-8/)
 
 비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space

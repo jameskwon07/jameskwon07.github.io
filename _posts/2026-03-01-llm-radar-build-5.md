@@ -90,11 +90,7 @@ Gauge의 블로그에서 이런 말을 읽었다.
 아마 결과는 비슷할 것이다. 아직 인덱싱도 완료되지 않았고, 외부 언급도 없다.
 
 중요한 건 지금의 0%가 아니라, 다음 스캔에서 달라지는지다. 그 변화를 여기서 계속 공개한다.
+← 이전 화: [4화: 경쟁사를 직접 뜯어봤다](https://codingbridge.blog/2026/02/28/llm-radar-build-4/)
+→ 다음 화: [6화: 참조 사이트가 없다는 게 무슨 뜻인가](https://codingbridge.blog/2026/03/02/llm-radar-build-6/)
 
----
-
-비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
-
-**← 이전 화:** [4화: 경쟁사를 직접 뜯어봤다 — Gauge 시리즈 1](https://jameskwon07.github.io/2026/02/28/llm-radar-build-4/) | **→ 다음 화:** [6화: 참조 사이트가 없다는 게 무슨 뜻인가](https://jameskwon07.github.io/2026/03/02/llm-radar-build-6/)
-
-*[jameskwon07.github.io](https://jameskwon07.github.io) | LLM Radar 빌드 인 퍼블릭 시리즈*
+비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space

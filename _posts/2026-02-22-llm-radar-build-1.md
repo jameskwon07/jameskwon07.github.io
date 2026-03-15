@@ -70,12 +70,6 @@ LLM이 나를 언급하는지 확인하려면 세 단계가 필요하다:
 
 - 2화: 노출률 0%인 상태에서, Perplexity는 내 질문들에 어떻게 답하고 있나 — 실제 답변 5개 공개
 - 3화: 2화 인사이트를 실제로 적용해본다 — 포맷, 구조, 키워드를 바꿔서 다시 스캔
+→ 다음 화: [2화: Perplexity에 직접 물어봤다](https://codingbridge.blog/2026/02/23/llm-radar-build-2/)
 
----
-
-**→ 다음 화:** [2화: Perplexity에 직접 물어봤다](https://jameskwon07.github.io/2026/02/23/llm-radar-build-2/)
-
-비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
-
-*[jameskwon07.github.io](https://jameskwon07.github.io) | LLM Radar 빌드 인 퍼블릭 시리즈*
-
+비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space
