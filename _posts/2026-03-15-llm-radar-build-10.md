@@ -9,8 +9,6 @@ tags: [LLM검색최적화, Perplexity, GEO, AI가시성, 빌드인퍼블릭]
 
 LLM Radar를 만들고 있는 이유는 하나다. 내 사이트가 AI 검색에서 어떻게 보이는지 직접 확인하고 싶어서다. 그래서 오늘은 내가 만든 도구로 내 블로그를 직접 분석해봤다. 결과를 보고 솔직히 당혹스러웠다.
 
-← 이전 화: [9화 — Perplexity가 드디어 내 블로그를 인용했다](https://codingbridge.blog/2026/03/08/llm-radar-build-9/)
-
 ---
 
 ## LLM Radar가 뭘 하는 건지 다시 정리
@@ -167,5 +165,7 @@ Perplexity가 글을 읽긴 했지만 최종 답변에서 쓰지 않았다는 �
 도구를 만들면서 가장 불편한 순간은, 그 도구가 내 문제를 정확하게 짚어낼 때다. 오늘이 그랬다.
 
 ---
+
+← 이전 화: [9화 — Perplexity가 드디어 내 블로그를 인용했다](https://codingbridge.blog/2026/03/08/llm-radar-build-9/)
 
 비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space
