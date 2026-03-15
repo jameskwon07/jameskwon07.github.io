@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LLM Radar로 내 블로그를 분석했더니 당혹스러웠다"
+title: "LLM Radar 만들기 10화: 내 블로그를 분석했더니 당혹스러웠다"
 date: 2026-03-15
 description: "LLM Radar로 codingbridge.blog를 직접 분석한 결과, L1 브랜드 질문은 Perplexity에 언급됐지만 L2 카테고리 질문은 전부 미노출. Perplexity가 대신 인용한 경쟁 사이트들을 크롤링해서 비교했더니 글자수가 8배 차이났다."
 categories: [빌드인퍼블릭, LLM-Radar]
