@@ -68,6 +68,7 @@ codingbridge.blog는 2월에 만든 새 도메인이다. Perplexity가 참고 �
 
 아직 모른다. 계속 해볼 뿐이다.
 ← 이전 화: [6화: 참조 사이트가 없다는 게 무슨 뜻인가](https://codingbridge.blog/2026/03/02/llm-radar-build-6/)
+
 → 다음 화: [8화: 세종 데이트 카페 찾다가 발견한 것](https://codingbridge.blog/2026/03/07/llm-radar-build-8/)
 
 비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space

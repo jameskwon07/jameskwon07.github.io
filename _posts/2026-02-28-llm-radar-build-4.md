@@ -121,6 +121,7 @@ Gauge 시리즈 2 — LLM Radar로 Gauge를 직접 조사한다.
 
 AI는 Gauge를 어떻게 설명하는가. 어떤 질문에서 언급되고, 어떤 질문에서 빠지는가. 경쟁사를 측정 대상으로 삼아서 LLM Radar가 실제로 어떤 정보를 뽑아내는지 공개한다.
 ← 이전 화: [3화: Perplexity가 내 사이트를 못 읽었다](https://codingbridge.blog/2026/02/25/llm-radar-build-3/)
+
 → 다음 화: [5화: Gauge를 AI로 검색해봤다](https://codingbridge.blog/2026/03/01/llm-radar-build-5/)
 
 비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space
