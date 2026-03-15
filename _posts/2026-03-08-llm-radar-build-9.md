@@ -92,3 +92,5 @@ LLM이 인식한 키워드는 세 가지다.
 ---
 
 비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space
+
+→ 다음 화: [10화 — LLM Radar로 내 블로그를 분석했더니 당혹스러웠다](https://codingbridge.blog/2026/03/15/llm-radar-build-10/)
