@@ -88,9 +88,6 @@ LLM이 인식한 키워드는 세 가지다.
 다음엔 18개 고정 질문으로 재스캔을 돌려볼 생각이다. 숫자로 확인해봐야 안다.
 
 ← 이전 화: [LLM Radar 만들기 8화: 세종 데이트 카페 찾다가 발견한 것](https://codingbridge.blog/2026/03/07/llm-radar-build-8/)
-
----
+→ 다음 화: [LLM Radar 만들기 10화: 내 블로그를 분석했더니 당혹스러웠다](https://codingbridge.blog/2026/03/15/llm-radar-build-10/)
 
 비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space
-
-→ 다음 화: [10화 — LLM Radar로 내 블로그를 분석했더니 당혹스러웠다](https://codingbridge.blog/2026/03/15/llm-radar-build-10/)
