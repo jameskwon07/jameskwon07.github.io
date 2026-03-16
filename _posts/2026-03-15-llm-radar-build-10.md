@@ -168,6 +168,9 @@ Perplexity가 글을 읽긴 했지만 최종 답변에서 쓰지 않았다는 �
 
 ← 이전 화: [9화 — Perplexity가 드디어 내 블로그를 인용했다](https://codingbridge.blog/2026/03/08/llm-radar-build-9/)
 
-→ 다음 화: 준비 중
+→ 11화 예고: 규칙을 세웠으면 적용해봐야지. 바꾸고 나서 결과가 달라졌을까?
+
+→ 12화 예고: 직접 해보고 싶다는 분들이 생겼다. 그럼 만들어야지.
 
 비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space
+작가가 직접 만든 AI 검색 분석 도구 → https://voidops.space/llm-radar/
