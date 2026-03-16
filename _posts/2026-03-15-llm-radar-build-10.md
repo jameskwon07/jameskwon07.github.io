@@ -172,6 +172,8 @@ Perplexity가 글을 읽긴 했지만 최종 답변에서 쓰지 않았다는 �
 
 → 12화 예고: 직접 해보고 싶다는 분들이 생겼다. 그럼 만들어야지.
 
+---
+
 비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
 
 작가가 직접 만든 AI 검색 분석 도구 → [https://voidops.space/llm-radar/](https://voidops.space/llm-radar/)
