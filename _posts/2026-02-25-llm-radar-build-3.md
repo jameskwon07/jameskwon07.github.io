@@ -7,6 +7,15 @@ tags: [LLMO, LLM검색최적화, GoogleSearchConsole, SEO, 인덱싱]
 description: "Perplexity가 내 블로그를 크롤링하지 못했다. LLMO보다 먼저 해결해야 할 문제 — Google Search Console 등록, 사이트맵 제출, robots.txt 설정. AI 검색 최적화 이전에 기본 인덱싱이 안 돼있었다. LLM Radar 빌드인퍼블릭 3화."
 ---
 
+## 이번 화 요약
+
+- **Perplexity가 jameskwon07.github.io를 읽지 못했다**
+- **원인: 크롤링 제한이 아니라 Google 인덱스 미등록**
+- **LLMO 전에 기초부터 — Google이 모르면 LLM도 모른다**
+- **Google Search Console 등록 완료, 사이트맵 제출**
+
+---
+
 계획대로 안 풀렸다. 근데 그게 오히려 더 중요한 걸 발견하게 해줬다. 막힐 때 다른 길이 보이는 경우가 있다.
 
 2화 마지막에 이렇게 썼다.

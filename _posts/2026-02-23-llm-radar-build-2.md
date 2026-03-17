@@ -7,6 +7,15 @@ tags: [LLMO, LLM검색최적화, Perplexity, GEO, AI검색]
 description: "AI 검색 노출률 0% 상태에서 Perplexity에 직접 5가지 질문을 던졌다. GEO(Generative Engine Optimization) 전략, LLM 인용 최적화 방법, AI 검색 모니터링 서비스 추천까지 — 실제 답변과 공백을 분석한다. LLM Radar 빌드인퍼블릭 2화."
 ---
 
+## 이번 화 요약
+
+- **노출률 0%인 상태에서 Perplexity 실제 답변 5개 공개**
+- **GEO(Generative Engine Optimization) 개념 발견 — 이미 이름이 있었다**
+- **AI 모니터링 서비스 목록에 한국어 서비스 없음 — 공백 확인**
+- **인용되려면 일반 정보가 아닌 실제 경험 기반 의견이 필요하다**
+
+---
+
 0%가 나왔는데 이상하게 기분이 나쁘지 않았다. 오히려 더 파고들고 싶어졌다. 이 0%에 뭔가 있을 것 같았다.
 
 1화에서 첫 스캔 결과가 0%였다. 내 블로그는 18개 질문 어디에서도 언급되지 않았다.

@@ -7,6 +7,15 @@ categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLM검색최적화, Perplexity, GEO, AI가시성, 빌드인퍼블릭]
 ---
 
+## 이번 화 요약
+
+- **"AI 검색 최적화를 실험하는 한국 블로그 알아?" → Perplexity가 codingbridge.blog를 1위로 꼽았다**
+- **구글은 모르는데 Perplexity는 알고 있다 — 두 엔진의 작동 방식 차이 확인**
+- **키워드가 글 안에 반복되면 LLM은 읽는다**
+- **Perplexity가 인식한 내 블로그 키워드 3가지 정리**
+
+---
+
 "AI 검색 최적화를 실험하는 한국 블로그 알아?" — Perplexity에 이렇게 물었더니 codingbridge.blog가 1위로 나왔다. 믿어지지 않았다.
 
 ---
