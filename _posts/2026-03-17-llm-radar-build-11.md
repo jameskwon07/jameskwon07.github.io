@@ -235,7 +235,7 @@ Perplexity가 인용한 사이트들:
 
 ← 이전 화: [10화 — 내 블로그를 분석했더니 당혹스러웠다](https://codingbridge.blog/2026/03/15/llm-radar-build-10/)
 
-→ 다음 화: 준비 중
+→ 다음 화: [12화 — LLM 노출 모니터링 툴 비교: Otterly, Nightwatch, GetMint, LLM Radar](https://codingbridge.blog/2026/03/21/llm-radar-build-12/)
 
 ---
 

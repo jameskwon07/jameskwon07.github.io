@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "LLM 노출 모니터링 툴 비교 (2026): Otterly, Nightwatch, GetMint, LLM Radar"
+title: "LLM Radar 만들기 12화: LLM 노출 모니터링 툴 비교 (2026) — Otterly, Nightwatch, GetMint, LLM Radar"
 date: 2026-03-21
 description: "AI 검색에서 브랜드 노출을 추적하는 LLM 노출 모니터링 툴 4개 비교. Otterly($29~), Nightwatch($32~), GetMint(무료~), LLM Radar — 기능·가격·타겟 기준으로 어떤 툴이 누구에게 맞는지 정리했다."
-categories: [LLM-Radar]
+categories: [빌드인퍼블릭, LLM-Radar]
 tags: [LLM검색최적화, Perplexity, GEO, AI가시성]
 ---
 
@@ -249,6 +249,12 @@ GEO(Generative Engine Optimization)는 AI 검색 엔진에 최적화하는 것�
 ### 어떤 툴부터 시작하면 좋을까?
 
 예산이 없다면 GetMint 무료 플랜으로 AI 모니터링이 어떤 건지 먼저 경험해보는 게 낫다. 영어 브랜드로 AI 검색 모니터링에만 집중하고 싶다면 Otterly Lite로 시작할 수 있다. 한국어 시장이 주력이라면 LLM Radar에 직접 문의해보는 걸 권한다.
+
+---
+
+← 이전 화: [11화 — 구조를 바꿨다. 2일 만에 재스캔했더니](https://codingbridge.blog/2026/03/17/llm-radar-build-11/)
+
+→ 다음 화: 준비 중
 
 ---
 
