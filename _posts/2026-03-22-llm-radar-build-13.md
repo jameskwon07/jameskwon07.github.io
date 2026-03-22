@@ -220,6 +220,8 @@ AI 검색 인용은 다르다. 누군가 질문했을 때 AI가 스스로 내 �
 
 → 다음 화: 준비 중
 
-비슷한 고민 있으시면 편하게 연락주세요. → contact@voidops.space
+---
 
-작가가 직접 만든 AI 검색 분석 도구 → https://voidops.space/llm-radar/
+비슷한 고민 있으시면 편하게 연락주세요. → [contact@voidops.space](mailto:contact@voidops.space)
+
+작가가 직접 만든 AI 검색 분석 도구 → [https://voidops.space/llm-radar/](https://voidops.space/llm-radar/)
