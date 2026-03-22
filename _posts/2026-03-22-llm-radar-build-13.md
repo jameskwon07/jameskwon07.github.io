@@ -129,14 +129,7 @@ LLM Radar는 세 단계로 작동한다.
 
 도구를 설치하기 전에 — Try Demo에서 내 사이트 URL을 입력하면 Perplexity 스캔 결과를 먼저 받아볼 수 있다.
 
-**사용 방법:**
-
-1. [https://voidops.space/llm-radar/try-it/](https://voidops.space/llm-radar/try-it/) 접속
-2. 내 사이트 URL 입력
-3. 자동 생성된 질문 2개 확인
-4. 이메일 입력 → 전체 스캔 결과 수신
-
-결과 이메일에는 현재 인용 여부와 함께 다음 단계 가이드가 포함되어 있다.
+현재 Try Demo 기능은 구현 중이다. 완성되면 이 글에 링크를 추가할 예정이다.
 
 ---
 
