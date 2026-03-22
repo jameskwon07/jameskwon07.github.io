@@ -254,7 +254,7 @@ GEO(Generative Engine Optimization)는 AI 검색 엔진에 최적화하는 것�
 
 ← 이전 화: [11화 — 구조를 바꿨다. 2일 만에 재스캔했더니](https://codingbridge.blog/2026/03/17/llm-radar-build-11/)
 
-→ 다음 화: 준비 중
+→ 다음 화: [13화 — 내 블로그가 Perplexity에 인용되는지 확인하는 방법](https://codingbridge.blog/2026/03/22/llm-radar-build-13/)
 
 ---
 
