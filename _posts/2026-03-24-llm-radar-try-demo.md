@@ -3,7 +3,7 @@ layout: post
 title: "AI 검색에서 내 브랜드가 보이는지 — 지금 바로 확인할 수 있게 됐다"
 date: 2026-03-24 20:00:00 +0900
 description: "LLM Radar Try Demo 공개. URL 하나로 Perplexity 기반 AI 검색에서 내 브랜드가 언급되는지 무료로 진단한다. 회원가입 없이 30~90초면 결과가 나온다."
-categories: [제품노트]
+categories: [메이커노트]
 tags: [LLM검색최적화, Perplexity, GEO, AI가시성, LLMRadar]
 ---
 
