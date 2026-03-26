@@ -220,7 +220,7 @@ AI 검색 인용은 다르다. 누군가 질문했을 때 AI가 스스로 내 �
 
 ← 이전 화: [12화 — LLM 노출 모니터링 툴 비교 (2026)](https://codingbridge.blog/2026/03/21/llm-radar-build-12/)
 
-→ 다음 화: 준비 중
+→ 다음 화: [14화 — 공개가 무서웠던 이유 — 블로그 링크와 서비스 링크의 차이](https://codingbridge.blog/2026/03/26/llm-radar-build-14/)
 
 ---
 
