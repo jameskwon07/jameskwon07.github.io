@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "공개가 무서웠던 이유 — 블로그 링크와 서비스 링크의 차이"
+title: "LLM Radar 만들기 14화: 공개가 무서웠던 이유 — 블로그 링크와 서비스 링크의 차이"
 date: 2026-03-26 20:00:00 +0900
 description: "disquiet.io에 블로그 링크를 올렸을 땐 아무도 없었다. 서비스를 직접 링크했더니 사람들이 왔다. LLM Radar Try Demo 공개 후 3일, 스캔 45회가 쌓이기까지의 이야기."
 categories: [빌드인퍼블릭, LLM-Radar]
@@ -153,7 +153,7 @@ AI가 아직 내 브랜드를 모르는 상태입니다. 가장 먼저 할 수 �
 
 ---
 
-← 이전 화: [13화 — Try Demo, 실제로 만들어지기까지](https://codingbridge.blog/2026/03/22/llm-radar-build-13/)
+← 이전 화: [LLM Radar 만들기 13화: Try Demo, 실제로 만들어지기까지](https://codingbridge.blog/2026/03/22/llm-radar-build-13/)
 
 → 다음 화: 준비 중
 
