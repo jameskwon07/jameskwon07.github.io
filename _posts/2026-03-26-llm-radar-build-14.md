@@ -155,7 +155,7 @@ AI가 아직 내 브랜드를 모르는 상태입니다. 가장 먼저 할 수 �
 
 ← 이전 화: [LLM Radar 만들기 13화: Try Demo, 실제로 만들어지기까지](https://codingbridge.blog/2026/03/22/llm-radar-build-13/)
 
-→ 다음 화: 준비 중
+→ 다음 화: [LLM Radar 만들기 15화: 공개하고 5일, 예상 못한 버그들](https://codingbridge.blog/2026/03/30/llm-radar-build-15/)
 
 ---
 
